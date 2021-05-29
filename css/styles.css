@@ -470,8 +470,9 @@
    }
 
    .hero__cta{
+    font-size: 1rem;
      width: 280px;
-     height: 65px;
+     height: 55px;
    }
 
    /* About */
